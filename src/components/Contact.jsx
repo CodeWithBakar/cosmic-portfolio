@@ -135,7 +135,7 @@ const Contact = () => {
               <h4 className="text-lg font-semibold text-white mb-4">Connect With Me</h4>
               <div className="flex space-x-4">
                 <motion.a
-                  href="https://github.com/CodeWithBakar"
+                  href="https://github.com/abubakarxdev"
                   target="_blank"
                   rel="noopener noreferrer"
                   whileHover={{ scale: 1.1, y: -5 }}
