@@ -14,7 +14,7 @@ const Projects = () => {
       description: 'Healthcare system with AI detection for 5+ neurological conditions achieving 92% accuracy using MRI/CT analysis.',
       image: neuroSentinelImg,
       tags: ['React.js', 'FastAPI', 'TensorFlow', 'MongoDB' , 'Node.js' , 'Express.js'],
-      github: 'https://github.com/CodeWithBakar/NeuroSentinel_FrontEnd',
+      github: 'https://github.com/abubakarxdev/NeuroSentinel_FrontEnd',
       demo: '#',
     },
     {
@@ -22,7 +22,7 @@ const Projects = () => {
       description: 'Full-stack platform with JWT/OAuth2 authentication supporting 100+ concurrent users and rich-text editing.',
       image: blogAppImg,
       tags: ['React.js', 'FastAPI', 'PostgreSQL', 'Redux'],
-      github: 'https://github.com/CodeWithBakar/blogapp',
+      github: 'https://github.com/abubakarxdev/blogapp',
       demo: '#',
     },
     {
@@ -30,7 +30,7 @@ const Projects = () => {
       description: 'React-based weather application providing real-time details for any city using OpenWeather API with dynamic backgrounds.',
       image: weatherAppImg,
       tags: ['React.js', 'OpenWeather API', 'Axios', 'CSS3'],
-      github: 'https://github.com/CodeWithBakar/Weather-App',
+      github: 'https://github.com/abubakarxdev/Weather-App',
       demo: '#',
     },
   ];
