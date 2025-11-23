@@ -145,7 +145,7 @@ const Contact = () => {
                   <FiGithub className="text-white text-xl" />
                 </motion.a>
                 <motion.a
-                  href="https://www.linkedin.com/in/abubakarse005/"
+                  href="https://www.linkedin.com/in/abubakarxdev/"
                   target="_blank"
                   rel="noopener noreferrer"
                   whileHover={{ scale: 1.1, y: -5 }}
